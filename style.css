@@ -12,7 +12,7 @@ header {
 }
 
 .logo h2 {
-  font-size: 2rem;
+  font-size: 30px;
   color: #fff;
 }
 
@@ -23,7 +23,7 @@ header {
 .section-1 {
   display: flex;
   justify-content: center;
-  margin-top: 6.25rem;
+  margin-top: 100px;
 }
 
 .area-title {
@@ -35,21 +35,23 @@ header {
 }
 
 .area-title h1 {
-  font-size: 2.8rem;
-  line-height: 3.1rem;
-  margin-top: -1rem;
+  font-size: 45px;
+  line-height: 50px;
+  margin-top: -16px;
 }
 
 .area-title a {
   display: inline-block;
   background-color: #1a7993;
-  padding: 1rem 3.75rem;
-  font-size: 1.25rem;
+  padding: 15px 60px;
+  font-size: 20px;
+  cursor: pointer;
 }
 
 .image1 img {
-  height: 20rem;
-  width: 22rem;
-  margin-top: 1.25rem;
-  margin-left: 1.9rem;
+  width: 460px;
+  height: auto;
+  margin-top: 20px;
+  margin-left: 55px;
 }
+
