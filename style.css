@@ -1,0 +1,55 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Oswald', sans-serif;
+  background-color: #15161b;
+}
+
+header {
+  display: flex;
+  justify-content: center;
+
+}
+
+.logo h2 {
+  font-size: 2rem;
+  color: #fff;
+}
+
+.logo span {
+  color: #1a7993;
+}
+
+.section-1 {
+  display: flex;
+  justify-content: center;
+  margin-top: 6.25rem;
+}
+
+.area-title {
+  color: #fff;
+}
+
+.area-title h3 {
+  font-weight: normal;
+}
+
+.area-title h1 {
+  font-size: 2.8rem;
+  line-height: 3.1rem;
+  margin-top: -1rem;
+}
+
+.area-title a {
+  display: inline-block;
+  background-color: #1a7993;
+  padding: 1rem 3.75rem;
+  font-size: 1.25rem;
+}
+
+.image1 img {
+  height: 20rem;
+  width: 22rem;
+  margin-top: 1.25rem;
+  margin-left: 1.9rem;
+}
